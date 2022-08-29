@@ -1,3 +1,5 @@
+// I deleted HelloWorld.vue, but I kept this test as a template to other tests
+
 import { describe, it, expect } from "vitest";
 
 import { mount } from "@vue/test-utils";
